@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML</title>
+    <style>
+        table,th,td {
+            border:1px solid black;
+        }
+        table tr td {
+            text-align: center;
+        } 
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;">Nur Asih : 32211503</h1>
+    <div>
+        <h3 style="text-align: center;">THE TOP 10 OF MY BEST FRIENDS</h3>
+        <table style="width: 100%;">
+            <tr>
+                <th>Nomor</th>
+                <th>Nama</th>
+                <th>Alamat</th>
+                <th colspan="2">Aksi</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Sophiyanti Dewi</td>
+                <td>Penggung,Cirebon</td>
+                <td>Edit</td>
+                <td>Hapus</td>
+            </tr>            
+                <td>2</td>
+                <td>Indah</td>
+                <td>Permata,Cirebon</td>
+                <td>Edit</td>
+                <td>Hapus</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Inggit Agustina</td>
+                <td>Gunjat,Kab.Cirebon</td>
+                <td>Edit</td>
+                <td>Hapus</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Ita Juwita</td>
+                <td>palimanan,Kab.Cirebon</td>
+                <td>Edit</td>
+                <td>Hapus</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Tanti</td>
+                <td>Ciledug,Kab.Cirebon</td>
+                <td>Edit</td>
+                <td>Hapus</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Herlina Surisma</td>
+                <td>Pegambiran,Cirebon</td>
+                <td>Edit</td>
+                <td>Hapus</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Maya Alfiyana</td>
+                <td>Plered,Kab.Cirebon</td>
+                <td>Edit</td>
+                <td>Hapus</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Nawrah Wahyunisari</td>
+                <td>Arjawinangun,Kab.Cirebon</td>
+                <td>Edit</td>
+                <td>Hapus</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>Dimas Ardiansyah</td>
+                <td>Arjawinangun,Kab.Cirebon</td>
+                <td>Edit</td>
+                <td>Hapus</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>Jaya K</td>
+                <td>Larangan,Cirebon</td>
+                <td>Edit</td>
+                <td>Hapus</td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
